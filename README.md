@@ -35,40 +35,40 @@ Kind regards,<br>
 [Ahmet Kul]<br>
 <br><br>
 
-Türkçe
+Türkçe<br>
+<br>
+Merhaba,<br>
+<br>
+Ben Ahmet Kul, bir yazılım mühendisiyim. Yazılım geliştirme ve teknolojiye olan tutkumla, karmaşık problemleri çözmek ve kullanıcı dostu çözümler üretmek için çalışıyorum. İşbirlikçi bir yaklaşıma sahibim ve ekip ortamlarında verimli çalışmayı önemsiyorum.<br>
+<br>
+Yeteneklerim ve Deneyimlerim:<br>
+<br>
+Programlama Dilleri: [React Native, Java, JavaScript, C++ , C ,C#)]<br>
+Web Geliştirme: [PHP, HTML, CSS, JavaScript, frameworkler (örneğin: Codeigniter)]<br>
+Veritabanı Yönetimi: [SQL, MYSQL, Firebase]<br>
+Yazılım Geliştirme Araçları: [IDE'ler (Visual Studio Code, Android Studio, IntelliJ IDEA), versiyon kontrol sistemi (Git)]<br>
+Test ve Hata Ayıklama: [Unit testleri, hata ayıklama araçları]<br>
+Sürüm Kontrolü: [Git, GitHub, GitLab]<br>
+Eğitim:<br>
+<br>
+Lisans Derecesi: [Lisans derecesi,European Universty of Lefke, 2022]<br>
+İlgili Kurslar ve Sertifikalar: [Udemy kursları, online sertifikalar]<br>
+<br>
+Proje Örnekleri:<br>
 
-Merhaba,
-
-Ben Ahmet Kul, bir yazılım mühendisiyim. Yazılım geliştirme ve teknolojiye olan tutkumla, karmaşık problemleri çözmek ve kullanıcı dostu çözümler üretmek için çalışıyorum. İşbirlikçi bir yaklaşıma sahibim ve ekip ortamlarında verimli çalışmayı önemsiyorum.
-
-Yeteneklerim ve Deneyimlerim:
-
-Programlama Dilleri: [React Native, Java, JavaScript, C++ , C ,C#)]
-Web Geliştirme: [PHP, HTML, CSS, JavaScript, frameworkler (örneğin: Codeigniter)]
-Veritabanı Yönetimi: [SQL, MYSQL, Firebase]
-Yazılım Geliştirme Araçları: [IDE'ler (Visual Studio Code, Android Studio, IntelliJ IDEA), versiyon kontrol sistemi (Git)]
-Test ve Hata Ayıklama: [Unit testleri, hata ayıklama araçları]
-Sürüm Kontrolü: [Git, GitHub, GitLab]
-Eğitim:
-
-Lisans Derecesi: [Lisans derecesi,European Universty of Lefke, 2022]
-İlgili Kurslar ve Sertifikalar: [Udemy kursları, online sertifikalar]
-
-Proje Örnekleri:
-
-[Kurumsal Web Siteleri ucelsparepart.com]
-[Diloshio,antakyayoresellezzet, Alışveriş Siteleri, diloshio.com]
-[Admin panelleri,]
-İletişim:
-
-Eğer işbirliği yapmak, projeler hakkında konuşmak veya herhangi bir sorunuz varsa, lütfen aşağıdaki iletişim bilgilerim üzerinden bana ulaşabilirsiniz:
-
-E-posta: [ahmetkul4039@gmail.com]
-GitHub: [@ahmetkull]
-Instagram: [@ahmetkulll]
-Yeni teknolojilere ve gelişmelere açık olup sürekli öğrenmeye ve kendimi geliştirmeye odaklanıyorum. Ekip çalışmasına değer veriyor ve projelerde etkili iletişim kurmayı hedefliyorum.
-
-Sizi daha fazla tanımak ve işbirliği yapmak için sabırsızlanıyorum!
-
-Saygılarımla,
-[Ahmet Kul]
+[Kurumsal Web Siteleri ucelsparepart.com]<br>
+[Diloshio,antakyayoresellezzet, Alışveriş Siteleri, diloshio.com]<br>
+[Admin panelleri,]<br>
+İletişim:<br>
+<br>
+Eğer işbirliği yapmak, projeler hakkında konuşmak veya herhangi bir sorunuz varsa, lütfen aşağıdaki iletişim bilgilerim üzerinden bana ulaşabilirsiniz:<br>
+<br>
+E-posta: [ahmetkul4039@gmail.com]<br>
+GitHub: [@ahmetkull]<br>
+Instagram: [@ahmetkulll]<br>
+Yeni teknolojilere ve gelişmelere açık olup sürekli öğrenmeye ve kendimi geliştirmeye odaklanıyorum. Ekip çalışmasına değer veriyor ve projelerde etkili iletişim kurmayı hedefliyorum.<br>
+<br>
+Sizi daha fazla tanımak ve işbirliği yapmak için sabırsızlanıyorum!<br>
+<br>
+Saygılarımla,<br>
+[Ahmet Kul]<br>
