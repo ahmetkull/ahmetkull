@@ -17,6 +17,7 @@ Related Courses and Certifications: [Udemy courses, online certifications]<br>
 <br>
 Project Examples:<br>
 <br>
+Mobile Application with React Native
 [Corporate Websites ucelsparepart.com]<br>
 [Diloshio,antakyayoresellezzet, Shopping Sites, diloshio.com]<br>
 [Admin panels,]<br>
@@ -55,7 +56,7 @@ Lisans Derecesi: [Lisans derecesi,European Universty of Lefke, 2022]<br>
 İlgili Kurslar ve Sertifikalar: [Udemy kursları, online sertifikalar]<br>
 <br>
 Proje Örnekleri:<br>
-
+React Native ile Mobil uygulama yapımı
 [Kurumsal Web Siteleri ucelsparepart.com]<br>
 [Diloshio,antakyayoresellezzet, Alışveriş Siteleri, diloshio.com]<br>
 [Admin panelleri,]<br>
