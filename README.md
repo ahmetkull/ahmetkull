@@ -4,7 +4,7 @@ I'm Ahmet Kul, a software engineer. With my passion for software development and
 <br>
 My Skills and Experiences:<br>
 <br>
-Programming Languages: [React Native, Java, JavaScript, C++ , C ,C#)]<br>
+Programming Languages: [React Native,React,Nodejs, Java, JavaScript, C++ , C ,C#)]<br>
 Web Development: [PHP, HTML, CSS, JavaScript, frameworks (eg: Codeigniter)]<br>
 Database Management: [SQL, MYSQL, Firebase]<br>
 Software Development Tools: [IDEs (Visual Studio Code, Android Studio, IntelliJ IDEA), version control system (Git)]<br>
